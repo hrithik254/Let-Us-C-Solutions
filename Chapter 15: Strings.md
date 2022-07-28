@@ -78,7 +78,7 @@
         Garbage or error, that t is not initialized.
     (e)
     
-    Hello[garbage characters because NULL character is missing]
+    Hello since 0 is read as a null character by compiler
     Hello
    
     (f)
