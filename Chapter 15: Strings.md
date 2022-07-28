@@ -82,11 +82,11 @@
     Hello
    
     (f)
-    Morning
+    Morning , Starting address of the string "Good Morning" gets incremented by 5
     
-    (g) e
+    (g) e , Similar to previous, "abcdefg" acts as address of a
     
-    (h) 1 2 4
+    (h) 1 2 4, char takes 1 byte, 1 byte of char + 1 byte of null character, integer takes 4 byte.
 
 ## [B]
  
