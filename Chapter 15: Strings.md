@@ -7,9 +7,9 @@
         A
    
     (b)
-            t organised! learn C!!
-            Get organised! learn C!!
-            Get organised! learn C!!
+            t organised! learn C!!       
+            Get organised! learn C!!    
+            Get organised! learn C!!  -> s is an internal pointer, it means that s and the adresss of s both are same. s point to 'G'.
             t
     
     (c) 
