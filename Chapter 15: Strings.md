@@ -121,10 +121,11 @@
     
    (b)
        
-        str1 : Alice
-        str2 : in
-        str3 : wonder
-        str4 : land
+        str1 : "Alice"
+        str2 : "in"
+        str3 : "wonder"
+        str4 : "land"
+	as space is not read by scanf
    (c) 
     
     #include<stdio.h>
